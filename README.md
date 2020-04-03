@@ -1,5 +1,7 @@
 # 《人工智能导论》实验三
 
+https://www.kaggle.com/c/digit-recognizer
+
 ## 实验结果
 
 <div align=center>
